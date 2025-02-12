@@ -1,2 +1,1 @@
-"# Git-testing-repo" 
-test
+"# Git-testing-repo"
