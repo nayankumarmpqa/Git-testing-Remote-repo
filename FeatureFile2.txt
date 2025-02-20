@@ -1,3 +1,4 @@
 this is file 2 before switching to main branch
 updating feature2 file in feature1 branch to merge in to main
 updating featuer branch file to test rebase and see graph
+second commit in feature1
