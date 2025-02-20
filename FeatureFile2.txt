@@ -1,1 +1,2 @@
 this is file 2 before switching to main branch
+updating feature2 file in feature1 branch to merge in to main
