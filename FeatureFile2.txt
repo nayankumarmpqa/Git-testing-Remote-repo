@@ -1,8 +1,7 @@
 this is file 2 before switching to main branch
 updating feature2 file in feature1 branch to merge in to main
-<<<<<<< HEAD
-update main branch but same file as in feature1
-=======
+
 updating featuer branch file to test rebase and see graph
 second commit in feature1
->>>>>>> feature1
+
+update main branch but same file as in feature1
