@@ -1,2 +1,4 @@
 it is file created after creating a feature1 branch
 update
+
+updating featuer 1 file from feature1 branch
